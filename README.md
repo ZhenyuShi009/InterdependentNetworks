@@ -2,7 +2,7 @@
 This is a Matlab program designed for the production of paper titled Strategy evolution on interdependent networks.
 
 
-Fig4_1.m:   obtain the critical benefit-to-cost ratio (b/c)^* for symmetric interdependent networks that both layer has 6 nodes. The results are used to Fig. 4a.
+Fig5_1.m:   obtain the critical benefit-to-cost ratio (b/c)^* for symmetric interdependent networks that both layer has 6 nodes. The results are used to Fig. 5a.
 
 
 Download MATLAB 2023a:
@@ -22,5 +22,5 @@ Activate MATLAB:
 3.If your institution provides a license, you can activate MATLAB using the license file or a Network License if required.
 
 Using MATLAB:
-1.Click "Run and Debug" to execute the program Fig4-1.m.
-2.The expected outputs are the critical benefit-to-cost ratios for all 112 symmetric interdependent networks
+1.Click "Run and Debug" to execute the program Fig5-1.m.
+2.The expected outputs are the critical benefit-to-cost ratios for all 112 symmetric interdependent networks for alpha=0.1 and beta=0.5, saves in N6.csv.
